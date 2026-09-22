@@ -1,5 +1,8 @@
 <div align="center">
 
+
+![cover](assets/cover.png)
+
 # ev-after-sales-knowledge-management
 
 **新能源售后知识管理：4397万辆保有量背后的三电维修/培训体系/知识库搭建。**
