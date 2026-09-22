@@ -2,64 +2,33 @@
 
 # ev-after-sales-knowledge-management
 
-**新能源售后知识管理方法论**
+**新能源售后知识管理：4397万辆保有量背后的三电维修/培训体系/知识库搭建。**
 
-[SkillHub 在线安装](https://skillhub.cn/skills/ev-after-sales-knowledge-management) · [快速使用](#快速使用) · [核心能力](#核心能力) · [使用边界](#使用边界)
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/market-4397%20万辆-blue" alt="4397万辆" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/aftermarket-1300亿%2F年-green" alt="1300亿" /></a>
+</p>
+
+[市场数据](#市场数据) · [出保潮](#出保潮)
 
 </div>
 
 ---
 
-这是作者在真实业务场景中沉淀的可复用 AI Agent 技能（Skill），来自 Hermes Agent 实战运维，含完整执行流程、避坑清单与验证步骤。
+## 市场数据
 
-## 快速使用
-
-将本仓库放入 Agent 技能目录后，用对应触发词调用，Agent 会自动加载并执行完整流程。
-
-```text
-使用 ev-after-sales-knowledge-management 技能。
-这是待处理内容，直接执行。
-```
-
-## 核心能力
-
-| 能力 | 说明 |
+| 维度 | 数据 |
 |------|------|
-| 完整流程 | 步骤清晰，含验证与避坑 |
-| 即装即用 | 目录完整，无需额外依赖 |
-| 持续迭代 | 实战沉淀，随场景更新 |
+| 全国新能源保有量 | 4397 万辆（2025年底） |
+| 2025 新注册 | 1293 万辆（占 49%） |
+| 维保市场规模 | 1300 亿/年 |
 
-## 触发场景
+## 出保潮
 
-- 涉及「ev-after-sales-knowledge-management」的场景任务
-- 需要复用已验证方法论的工作
-- 批量/复杂任务中的专项环节
-
-## 使用方式（安装）
-
-- **Hermes**: 放入 `skills/` 目录
-- **Claude Code**: 放入 `~/.claude/skills/`
-- **Cursor**: 放入 `.cursor/skills/`
-- **SkillHub**: 一键安装（见上方徽章链接）
-
-## 目录结构
-
-<details>
-<summary><strong>查看完整目录</strong></summary>
-
-```text
-SKILL.md              # 主技能文件：流程、边界与执行规则
-references/           # 参考文档（方法、模板、数据）
-scripts/              # 可执行脚本（如有）
-```
-
-</details>
-
-## 使用边界
-
-- 本技能来自个人实践沉淀，按需取用，不承诺适用于所有场景
-- 敏感信息（密钥、内网地址、个人数据）不写入技能内容
-- 命令与脚本如与实际环境不符，以当前环境为准
+| 时间 | 规模 |
+|------|------|
+| 2030 | 900 万辆进入脱保期 |
+| 2032 | 突破 2000 万辆 |
 
 ## License
 
